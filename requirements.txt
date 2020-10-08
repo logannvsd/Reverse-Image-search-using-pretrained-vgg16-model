@@ -43,8 +43,6 @@ Markdown
 MarkupSafe 
 matplotlib 
 mistune 
-mkl-random==1.1.1
-mkl-service==2.3.0
 nbconvert 
 nbformat==5.0.7
 notebook 
